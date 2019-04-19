@@ -1,0 +1,24 @@
+!Penting
+
+# aplikasi maps ini bersifat gratis dan open source
+# Di buat dan di kembangkan oleh shadiq al mughni
+
+# Aplikasi ini mempunyai fitur 
+
+  * Geolocation dan pencarian warung terderkat berdasarkan posisi anda
+  * Pemesanan produk dan pembayaran
+  * Aplikasi akan mengirim pesanan ke pemilik warung melalui SMS gateway
+  * Seluruh proses menggunakan proses Asynchronous (ajax)
+  * Kode verifikasi
+
+# Petunjuk penggunaan dan instalasi
+
+ - Masukkan file sql.sql anda ke dalam database mysql anda
+ - Ubah file dbConfig dan sesuaikan database nya dengan aplikasi anda
+ - File dbConfig terletak di assets/php/dbConfig.php
+ - Untuk mengaktifkan layanan SMS gateway nya silahkan edit file pesan2.php
+   daftar.php
+
+Untuk kesan dan saran atau pertanyaan lebih lanjut silahkan hubungi
+
+shadiqalmughni12@gmail.com 
