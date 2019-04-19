@@ -1,0 +1,54 @@
+[30-Jan-2019 13:38:52 UTC] PHP Notice:  Undefined index: <?php echo $idWarung; ?> in /home/u6184873/public_html/assets/php/pesan2.php on line 52
+[30-Jan-2019 13:38:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/u6184873/public_html/assets/php/pesan2.php on line 52
+[31-Jan-2019 15:18:19 UTC] PHP Notice:  Undefined index: keranjang in /home/u6184873/public_html/assets/php/counter.php on line 6
+[31-Jan-2019 15:18:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/u6184873/public_html/assets/php/counter.php on line 6
+[31-Jan-2019 15:18:20 UTC] PHP Notice:  Undefined index: keranjang in /home/u6184873/public_html/assets/php/counter.php on line 6
+[31-Jan-2019 15:18:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/u6184873/public_html/assets/php/counter.php on line 6
+[31-Jan-2019 15:28:41 UTC] PHP Notice:  Undefined index: keranjang in /home/u6184873/public_html/assets/php/counter.php on line 6
+[31-Jan-2019 15:28:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/u6184873/public_html/assets/php/counter.php on line 6
+[31-Jan-2019 15:28:42 UTC] PHP Notice:  Undefined index: keranjang in /home/u6184873/public_html/assets/php/counter.php on line 6
+[31-Jan-2019 15:28:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/u6184873/public_html/assets/php/counter.php on line 6
+[31-Jan-2019 15:31:19 UTC] PHP Notice:  Undefined index: wrg002 in /home/u6184873/public_html/assets/php/counter.php on line 6
+[31-Jan-2019 15:31:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/u6184873/public_html/assets/php/counter.php on line 6
+[31-Jan-2019 15:31:19 UTC] PHP Notice:  Undefined index: wrg002 in /home/u6184873/public_html/assets/php/counter.php on line 6
+[31-Jan-2019 15:31:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/u6184873/public_html/assets/php/counter.php on line 6
+[01-Feb-2019 01:59:33 UTC] PHP Notice:  Undefined index: keranjang in /home/u6184873/public_html/assets/php/counter.php on line 6
+[01-Feb-2019 01:59:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/u6184873/public_html/assets/php/counter.php on line 6
+[01-Feb-2019 01:59:33 UTC] PHP Notice:  Undefined index: keranjang in /home/u6184873/public_html/assets/php/counter.php on line 6
+[01-Feb-2019 01:59:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/u6184873/public_html/assets/php/counter.php on line 6
+[01-Feb-2019 01:59:48 UTC] PHP Notice:  Undefined index: keranjang in /home/u6184873/public_html/assets/php/counter.php on line 6
+[01-Feb-2019 01:59:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/u6184873/public_html/assets/php/counter.php on line 6
+[01-Feb-2019 07:48:59 UTC] PHP Notice:  Undefined index: keranjang in /home/u6184873/public_html/assets/php/counter.php on line 6
+[01-Feb-2019 07:48:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/u6184873/public_html/assets/php/counter.php on line 6
+[01-Feb-2019 07:48:59 UTC] PHP Notice:  Undefined index: keranjang in /home/u6184873/public_html/assets/php/counter.php on line 6
+[01-Feb-2019 07:48:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/u6184873/public_html/assets/php/counter.php on line 6
+[01-Feb-2019 07:49:01 UTC] PHP Notice:  Undefined index: keranjang in /home/u6184873/public_html/assets/php/counter.php on line 6
+[01-Feb-2019 07:49:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/u6184873/public_html/assets/php/counter.php on line 6
+[01-Feb-2019 14:03:32 UTC] PHP Notice:  Undefined index: idPesanan in /home/u6184873/public_html/assets/php/pesan2.php on line 40
+[01-Feb-2019 14:33:47 UTC] PHP Notice:  Undefined index: idPesanan in /home/u6184873/public_html/assets/php/pesan2.php on line 40
+[01-Feb-2019 14:50:47 UTC] PHP Notice:  Undefined index: idPesanan in /home/u6184873/public_html/assets/php/pesan2.php on line 40
+[01-Feb-2019 16:11:40 UTC] PHP Notice:  Undefined index: idPesanan in /home/u6184873/public_html/assets/php/loadStatusPesanan.php on line 8
+[02-Feb-2019 00:36:59 UTC] PHP Notice:  Undefined index: idPesanan in /home/u6184873/public_html/assets/php/loadStatusPesanan.php on line 8
+[03-Feb-2019 05:49:40 UTC] PHP Notice:  Undefined index: idPesanan in /home/u6184873/public_html/assets/php/pesan2.php on line 40
+[03-Feb-2019 05:52:46 UTC] PHP Notice:  Undefined index: idPesanan in /home/u6184873/public_html/assets/php/pesan2.php on line 40
+[03-Feb-2019 06:41:05 UTC] PHP Notice:  Undefined index: idPesanan in /home/u6184873/public_html/assets/php/pesan2.php on line 40
+[03-Feb-2019 07:29:25 UTC] PHP Notice:  Undefined index: idPesanan in /home/u6184873/public_html/assets/php/pesan2.php on line 40
+[03-Feb-2019 07:29:28 UTC] PHP Parse error:  syntax error, unexpected ''</h6>' (T_CONSTANT_ENCAPSED_STRING) in /home/u6184873/public_html/assets/php/loadStatusPesanan.php on line 62
+[04-Feb-2019 01:37:44 UTC] PHP Notice:  Undefined index: idPesanan in /home/u6184873/public_html/assets/php/pesan2.php on line 40
+[04-Feb-2019 08:39:06 UTC] PHP Notice:  Undefined index: idPesanan in /home/u6184873/public_html/assets/php/pesan2.php on line 40
+[04-Feb-2019 08:45:24 UTC] PHP Notice:  Undefined index: idPesanan in /home/u6184873/public_html/assets/php/loadStatusPesanan.php on line 8
+[04-Feb-2019 08:45:31 UTC] PHP Notice:  Undefined index: idPesanan in /home/u6184873/public_html/assets/php/loadStatusPesanan.php on line 8
+[04-Feb-2019 12:13:41 UTC] PHP Notice:  Undefined index: idPesanan in /home/u6184873/public_html/assets/php/pesan2.php on line 40
+[05-Feb-2019 05:31:37 UTC] PHP Notice:  Undefined index: idPesanan in /home/u6184873/public_html/assets/php/pesan2.php on line 40
+[05-Feb-2019 07:41:26 UTC] PHP Notice:  Undefined index: idPesanan in /home/u6184873/public_html/assets/php/pesan2.php on line 40
+[05-Feb-2019 11:58:28 UTC] PHP Notice:  Undefined index: idPesanan in /home/u6184873/public_html/assets/php/loadStatusPesanan.php on line 8
+[07-Feb-2019 13:52:56 UTC] PHP Notice:  Undefined index: idPesanan in /home/u6184873/public_html/assets/php/pesan2.php on line 40
+[08-Feb-2019 22:57:28 Asia/Jakarta] PHP Notice:  Undefined index: idPesanan in /home/u6184873/public_html/assets/php/pesan2.php on line 40
+[08-Feb-2019 23:23:14 Asia/Jakarta] PHP Notice:  Undefined index: idPesanan in /home/u6184873/public_html/assets/php/pesan2.php on line 40
+[09-Feb-2019 07:45:37 UTC] PHP Notice:  Undefined index: id in /home/u6184873/public_html/assets/php/riwayatPesanan.php on line 5
+[09-Feb-2019 08:52:02 UTC] PHP Notice:  Undefined index: id in /home/u6184873/public_html/assets/php/loadDataDiri.php on line 5
+[10-Feb-2019 04:54:02 UTC] PHP Notice:  Undefined index: id in /home/u6184873/public_html/assets/php/loadDataDiri.php on line 5
+[10-Feb-2019 07:17:40 UTC] PHP Notice:  Undefined index: id in /home/u6184873/public_html/assets/php/riwayatPesanan.php on line 5
+[13-Feb-2019 21:00:11 Asia/Jakarta] PHP Notice:  Undefined index: idPesanan in /home/u6184873/public_html/assets/php/pesan2.php on line 40
+[16-Feb-2019 13:33:32 Asia/Jakarta] PHP Notice:  Undefined index: idPesanan in /home/u6184873/public_html/assets/php/pesan2.php on line 40
+[06-Mar-2019 21:47:45 Asia/Jakarta] PHP Notice:  Undefined index: idPesanan in /home/u6184873/public_html/assets/php/pesan2.php on line 40
